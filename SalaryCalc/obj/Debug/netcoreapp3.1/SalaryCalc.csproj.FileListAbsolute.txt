@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\bin\Debug\netcoreapp3.1\SalaryCalc.exe
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\bin\Debug\netcoreapp3.1\SalaryCalc.deps.json
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\bin\Debug\netcoreapp3.1\SalaryCalc.runtimeconfig.json
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\bin\Debug\netcoreapp3.1\SalaryCalc.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\bin\Debug\netcoreapp3.1\SalaryCalc.dll
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\bin\Debug\netcoreapp3.1\SalaryCalc.pdb
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.dll
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.pdb
+C:\Users\opilane\source\repos\SalaryCalc\SalaryCalc\obj\Debug\netcoreapp3.1\SalaryCalc.genruntimeconfig.cache
